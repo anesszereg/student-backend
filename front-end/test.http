@@ -1,0 +1,11 @@
+GET   http://localhost:4000/api/student/getStudents
+Content-Type: application/json
+
+{
+  "lastName": "John",
+  "FirstName": "Doe",
+    "email": "mahmoud@gamil.com",
+    "groupe":32
+
+}
+ 
